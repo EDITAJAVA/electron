@@ -1,16 +1,11 @@
-=== BOOTING UNIVERSITAS EDITAJAVA OS v2.0 ===
-🛡️ Menjalankan Protokol Keamanan XNAUN...
-✅ Integritas Data Terjamin: Kapasitas Pengetahuan Terpenuhi.
-
-=== DASHBOARD AKADEMIK AKTIF ===
-=== LAPORAN STATUS UNIVERSITAS ===
-Total Entitas : 154
-Total Fakultas: 10
-Status Audit  : AKTIF (Terhubung ke Zelosa/Zzaair)
-==================================
-
-=== UJIAN FAKULTAS ANATOMI - UNIVERSITAS EDITAJAVA ===
-Peserta   : Edi Purwanto
-Protokol  : Sentinel-X1 (XNAUN Security)
+==================================================
+           UNIVERSITAS EDITAJAVA
+        SERTIFIKAT KELULUSAN KOSMOLOGI
+==================================================
+Nama    : EDI PURWANTO
+Gelar   : MASTER ARCHITECT (ZARAHAK GOLD)
+Poin    : 150 Credits
 --------------------------------------------------
-Pertanyaan: Apa Kingdom untuk entitas 'Jantung'? _
+Telah memahami struktur L.O.R.E.C dan 
+tata tertib Kerajaan ERWNASIO.
+==================================================
